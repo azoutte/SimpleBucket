@@ -3,7 +3,7 @@ Description: Simple S3 bucket
 Parameters:
   MyBucketName:
     Type: String
-    Default: azoutte-12312312
+    Default: azoutte-123123121
 Resources:
   S3Bucket:
     Type: AWS::S3::Bucket
