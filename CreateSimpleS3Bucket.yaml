@@ -10,4 +10,4 @@ Resources:
     Properties:
       BucketName:
         Ref: MyBucketName
-##      AccessControl: PublicRead
+###      AccessControl: PublicRead
